@@ -1,3 +1,4 @@
+
 # Guia de Configuração: Expo via Cabo USB em Rede Corporativa
 
 Este documento descreve o passo a passo para rodar projetos Expo em ambientes com restrições de rede (firewall/Wi-Fi bloqueado) utilizando a comunicação via cabo USB (ADB) e forçando o tráfego via localhost.
